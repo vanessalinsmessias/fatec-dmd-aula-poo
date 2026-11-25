@@ -1,3 +1,0 @@
-isto nao e uma partida salva
-BRANCAS=Ana
-12345
